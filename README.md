@@ -1,8 +1,8 @@
 ### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/channel/UCBP3nX5ruhAE0ITqZOohVPg)
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/p-harish-652781225/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://pinnepalliharish.github.io/profile_website/)
+[![Linkedin Badge](https://img.shields.io/badge/-Harish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/p-harish-652781225/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Harish-green)](https://pinnepalliharish.github.io/profile_website/)
 
 I'm Harish .
 Full Stack Developer ,
